@@ -1,2 +1,0 @@
-# pitchskin
-pitchskin-design-system
